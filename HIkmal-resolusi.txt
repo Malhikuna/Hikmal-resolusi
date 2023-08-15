@@ -1,6 +1,6 @@
 Hikmal resolusi
 - konsisten belajar setiap hari
 - membuat sebuah website untuk membuka layanan freelance
-- membuat forum diskusi
 - kolaborasi dengan banyak expert
-- membuat layanan streaming berlisensi
+- membuat website untuk layanan streaming berlisensi
+- membuat aplikasi untuk layanan streaming berlisensi
